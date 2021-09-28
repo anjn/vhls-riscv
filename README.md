@@ -29,3 +29,7 @@ Simulation cycle: 366955
 Simulation time (ns): 2678771.500
 
 ```
+
+# Reference
+
+* https://github.com/chadyuu/riscv-chisel-book
