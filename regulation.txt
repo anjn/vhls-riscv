@@ -1,0 +1,9 @@
+target_clock_period_ns=10
+vitis_version=2021.1
+csim_timeout=2m
+hls_timeout=5m
+cosim_timeout=10m
+syn_timeout=30m
+cxxflags=""
+ldflags=""
+extra_files=$(ls riscv-tests/hex/*)
